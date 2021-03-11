@@ -1,0 +1,164 @@
+*{
+    box-sizing: border-box;
+  
+}
+
+body{
+    margin-left: 150px;
+    margin-right: 150px;
+    background-color: rgb(255, 255, 255);
+}
+header{
+    background-color: rgb(255, 255, 255);
+    padding-top: 0px;
+    box-shadow:0px 6px 0px #919191 ;
+    
+    
+    
+
+}
+
+.imglogo{
+float: left;
+margin-top: 0px;
+margin-right: 20px;
+
+
+}
+.imgs{
+    float: right;
+    
+
+}
+
+h1{
+    font-size: 20px;
+    font-family: 'Yellowtail', cursive ;
+   display: block;
+   
+    
+}
+
+
+
+h4 {
+    font-size: 10px;
+    color: grey;
+
+
+}
+h2{
+    font-size: 40px;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h6{
+    margin-top: 0px;
+    padding-top: 0px;
+    color: grey;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+p{
+    float: right;
+}
+div{
+   display: inline-block;
+    float:  right;
+}
+
+p{
+    font-size: 8px;
+}
+
+.imgcho{
+    width: 100%;
+    margin-top: 20px;
+}
+
+article{
+    white-space: pre-line;
+    margin-top: 20px;
+    color: grey;
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+
+.box{
+    width: 100%;
+    margin-bottom: 50px;
+    box-shadow: 6px 6px 6px #919191;
+    background-image: url(https://slack-imgs.com/?c=1&o1=ro&url=https%3A%2F%2Fscontent.famm3-3.fna.fbcdn.net%2Fv%2Ft1.15752-9%2F159682750_479044106800750_3823193053586924077_n.png%3F_nc_cat%3D104%26ccb%3D1-3%26_nc_sid%3Dae9488%26_nc_eui2%3DAeE4DVZK4966KA6vCFTZG0Quw4DJnUenyhbDgMmdR6fKFkJfTBymf-bIcDkqDPfWsdsW4AGKqKSw1a1Iw28s5JMI%26_nc_ohc%3DWwXzgN-p7m4AX_xrxcW%26_nc_ht%3Dscontent.famm3-3.fna%26oh%3D3993447fef3c778d6953f7df8bc04a10%26oe%3D6070F5F0);
+}
+
+
+#ul1{
+    float: left;
+    font-family: cursive;
+    list-style-type: none;
+    
+}
+
+#ul2{
+    float: right;
+    font-family: cursive;
+    list-style-type: none;
+}
+#van{
+    float: left;
+    margin-right: 20px;
+
+}
+
+.box2{
+    width: 100%;
+    box-shadow: 0px -6px 6px #919191;
+    margin-bottom: 100px;
+
+}
+
+.vam{
+    font-family: sans-serif;
+    font-size: 15px;
+    color: grey;
+    float: left;
+    margin-top: 10px;
+}
+
+.vam1{
+    font-family: sans-serif;
+    font-weight: bolder;
+    font-size: 25px;
+    margin-bottom: 10px;
+}
+
+button{
+    float: right;
+    background-color: rgb(179, 72, 72);
+    padding: 10px;
+    border: none;
+    color: lavender;
+    font-weight: bolder;
+    
+}
+
+footer{
+    border-top: 1px solid rgb(87, 86, 86) ;
+    text-align: center;
+    color: grey;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-bottom: 100px;
+}
+
+.last{
+   margin-bottom: 10px;
+   margin-left: 500px;
+}
+
+
+
