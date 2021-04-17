@@ -102,7 +102,11 @@ article{
     width: 100%;
     height: 46vh;
     margin-bottom: 50px;
-    background-image: url(https://slack-imgs.com/?c=1&o1=ro&url=https%3A%2F%2Fscontent.famm3-3.fna.fbcdn.net%2Fv%2Ft1.15752-9%2F159682750_479044106800750_3823193053586924077_n.png%3F_nc_cat%3D104%26ccb%3D1-3%26_nc_sid%3Dae9488%26_nc_eui2%3DAeE4DVZK4966KA6vCFTZG0Quw4DJnUenyhbDgMmdR6fKFkJfTBymf-bIcDkqDPfWsdsW4AGKqKSw1a1Iw28s5JMI%26_nc_ohc%3DWwXzgN-p7m4AX_xrxcW%26_nc_ht%3Dscontent.famm3-3.fna%26oh%3D3993447fef3c778d6953f7df8bc04a10%26oe%3D6070F5F0);
+    background-image: url('/chocolate-pizza/img/list-bg.png');
+    /* background-color: black; */
+
+
+    
 }
 
 
@@ -110,6 +114,7 @@ article{
     float: left;
     margin-left: 50px;
     font-family: cursive;
+    
     list-style-type: none;
     margin-top: 42px;
 
